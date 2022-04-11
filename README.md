@@ -1,6 +1,6 @@
 ## Node Js and React app with JWT and refresh tokens
 
-[![CircleCI](https://img.shields.io/circleci/project/github/contentful/the-example-app.nodejs.svg)](https://circleci.com/gh/contentful/the-example-app.nodejs)
+[![CircleCI](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 The app teaches the very basics of how to work with JWT authentication on frontend and backend:
 
